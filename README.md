@@ -65,7 +65,7 @@ graph TD
 3. Default credentials (change in [db.py](file:///D:/my_projects/netcraft/MAIN_PROJECT/PharmaSafe/db.py) if different):
    - **Host**: `localhost`
    - **User**: `root`
-   - **Password**: `1234`
+   - **Password**: `your password`
 
 ### 2. Run Backend (FastAPI)
 1. Open the project folder in PyCharm.
